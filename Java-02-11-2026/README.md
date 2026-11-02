@@ -1,8 +1,8 @@
-# Bài tập Java ngày 26 — phân số và điểm 2D/3D
+# Bài tập Java ngày 02/11/2026 — phân số và điểm 2D/3D
 
 ## Biên dịch và chạy
 
-Mở terminal trong thư mục `Java-26` (cần JDK 8 trở lên):
+Mở terminal trong thư mục `Java-02-11-2026` (cần JDK 8 trở lên):
 
 ```powershell
 javac -encoding UTF-8 -d out *.java
